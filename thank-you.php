@@ -18,14 +18,4 @@
 			<p><?php echo "<b class='place'>" . $_GET["location"] . "</b>" ?>  trip on the  <?php echo "<b>" . $_GET["date"] ."</b>" ?>.</p>
 		</div>
 	</div>
-	<!--Form-------------------------------------------------------------------------->
-
-
-	
-
-	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src='JS/script.js'></script> -->
-	
-</body>
-</html>
 
