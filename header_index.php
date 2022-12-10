@@ -24,13 +24,13 @@
 	<div class="container header">
 
 		<div class="header__burger box">
-			<a href="index.php" class="burger">
+			<a href="#" class="burger">
 				<img src="img/hamburger.png" class="hamburger" alt="menu button">
 			</a>
 		</div>
 
 		<div class="header__logo box">
-			<a href="index.php" class="logo glare">
+			<a href="#" class="logo">
 				<img src="img/paddle-white.png" class="paddle" alt="Logo">
 			</a>
 		</div>
