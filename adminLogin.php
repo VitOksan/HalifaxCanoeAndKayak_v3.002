@@ -11,18 +11,18 @@
 	<div class="content_book">
 		<h1 class="h1_bookATrip">Admin Login</h1>
 		<br>
-		<p style="color:#2a5196;" ><i><strong>Login name</strong> is your first name as C..., <strong>password</strong> is your city name as H...</i> &#128517;</p>
+		<p style="color:#2a5196;" ><i><strong><ins>Login name</ins></strong> is your first name as <b>C...</b>, <strong><ins>password</ins></strong> is your city name as <b> H...</b></i> &#128517;</p>
 		<br>
 
 		<!--Form-------------------------------------------------------------------------->
 	
 	
-		<form action="authenticate.php" method="POST">
+		<form action="validate.php" method="POST">
 			<label class="form_label" for="loginName">Login name</label>
-			<input type="text" class="form_input" id="loginName" name="logintName" placeholder="Your login name" required>
+			<input type="text" class="form_input" id="loginName" name="username" value="" placeholder="Your login name" required>
 			<br>
 			<label class="form_label" for="password">Password</label>
-			<input type="text" class="form_input" id="password" name="password" placeholder="*******">
+			<input type="text" class="form_input" id="password" name="password" value="" placeholder="*******">
 			<br>
 			<a href="#" class="submit">
 				<input src="#" class="submit_btn" type="submit" name="submit" value="Submit">

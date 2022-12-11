@@ -12,7 +12,7 @@
 		<h1 class="h1_bookATrip">Admin - Add Adventure</h1>
 		<br>
 		<p>
-			<h4>Input details about the trip</h4>
+			<h4 style="color:#2a5196;">Input details about the trip</h4>
 		</p>
 		<br>
 		

@@ -9,7 +9,7 @@
 					<a href="book.php" class="menu__link">Book Trip</a>
 				</li>
 				<li>
-					<a href="admin-add.php" class="menu__link">Admin Login</a>
+					<a href="adminLogin.php" class="menu__link">Admin Login</a>
 				</li>
 		</ul>
 	</nav>
