@@ -32,7 +32,7 @@
 			<input type="text" class="form_input" id="duration" name="duration" placeholder="" required>
 			<br>
 			<label class="form_label" for="summary_adminAdd">Summary</label>
-			<input type="text" class="form_input" id="summary_adminAdd" name="summary" placeholder="">
+			<textarea type="text" rows="4" class="form_input" id="summary_adminAdd" name="summary" placeholder=""></textarea>
 			<br>
 			<input class="submit_btn" type="submit" name="submit" value="Submit">
 			<br>
