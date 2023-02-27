@@ -24,7 +24,7 @@
 	<div class="container header">
 
 		<div class="header__burger box">
-			<a href="index.php" class="burger">
+			<a href="#" class="burger">
 				<img src="img/hamburger.png" class="hamburger" alt="menu button">
 			</a>
 		</div>
